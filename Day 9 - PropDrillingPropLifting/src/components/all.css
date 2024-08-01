@@ -1,0 +1,17 @@
+div{
+    padding: 2rem;
+    border: 1px solid gray;
+  }
+  
+.parent{
+    background-color: rgb(255, 136, 136);
+  }
+  
+.child{
+    background-color: rgb(255, 241, 136);
+  }
+  
+.grandchild{
+    background-color: rgb(136, 255, 190);
+  }
+  
